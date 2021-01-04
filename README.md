@@ -4,7 +4,7 @@ Program Language
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kay019&show_icons=true&theme=radical)
 
 Waka Time
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kay019)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kay019&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
