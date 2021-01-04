@@ -1,11 +1,11 @@
 ### Hi there 👋
 Wellcome to kay019's GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kay019&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kay019&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kay019&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kay019&show_icons=true&theme=radical&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kay019&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kay019&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
