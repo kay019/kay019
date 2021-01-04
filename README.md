@@ -1,6 +1,7 @@
 ### Hi there 👋
 Program Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kay019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kay019&show_icons=true&theme=radical)
 
 Waka Time
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kay019)](https://github.com/anuraghazra/github-readme-stats)
